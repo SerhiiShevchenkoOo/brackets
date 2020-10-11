@@ -16,4 +16,5 @@ module.exports = function check(str, bracketsConfig) {
     }
     return stack.length === 0
 }
+//complete late
 
